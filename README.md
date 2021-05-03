@@ -14,3 +14,8 @@
 - Sistema localizado no index.blade.php (raiz do projeto)
 - Testes Realizados com phpunit
 - PSR-12 aplicado
+
+Para criar o banco de dados:
+```sql
+CREATE DATABASE uoledtech COLLATE 'utf8_general_ci';
+```
